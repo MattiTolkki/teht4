@@ -58,8 +58,13 @@ namespace ListViewTesti1
             // mittaukset ListView:n
             int rivi = listView1.Items.Count;
 
+            ulong time64 = m.timeHi;
+            time64 += (ulong)m.timeLo << 32;
+
+            //DateTime dt = new DateTime((long)time64);
+
             // new row and first colomn
-            listView1.Items.Insert(0, m.Time.ToString());
+            listView1.Items.Insert(0, time64.ToString() /*dt.ToString()*/);
 
             // second and third columns
             listView1.Items[0].SubItems.Add(m.measurement1.ToString());

@@ -14,3 +14,11 @@ C:\Users\lpemake\Desktop\SocketExample4Measurements\Client\bin\Debug\ClientHelpe
 C:\Users\lpemake\Desktop\SocketExample4Measurements\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
 C:\Users\lpemake\Desktop\SocketExample4Measurements\Client\obj\Debug\Client.exe
 C:\Users\lpemake\Desktop\SocketExample4Measurements\Client\obj\Debug\Client.pdb
+C:\temp\tentti\Teht4\teht4\Ads3SocketExample4Measurements\Client\bin\Debug\Client.exe.config
+C:\temp\tentti\Teht4\teht4\Ads3SocketExample4Measurements\Client\bin\Debug\Client.exe
+C:\temp\tentti\Teht4\teht4\Ads3SocketExample4Measurements\Client\bin\Debug\Client.pdb
+C:\temp\tentti\Teht4\teht4\Ads3SocketExample4Measurements\Client\bin\Debug\ClientHelper.dll
+C:\temp\tentti\Teht4\teht4\Ads3SocketExample4Measurements\Client\bin\Debug\ClientHelper.pdb
+C:\temp\tentti\Teht4\teht4\Ads3SocketExample4Measurements\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\temp\tentti\Teht4\teht4\Ads3SocketExample4Measurements\Client\obj\Debug\Client.exe
+C:\temp\tentti\Teht4\teht4\Ads3SocketExample4Measurements\Client\obj\Debug\Client.pdb
